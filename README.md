@@ -21,6 +21,6 @@ This project is a Java program that simulates an ATM. It uses an Applet Class to
 * Java 8 or higher
 * An IDE that supports Java development
 
-## Author
+## Authors
 
 This project was created by Jesús Higuera, @Dainel-Samuel, @gAbo215 and myself as part of a college assignment.
